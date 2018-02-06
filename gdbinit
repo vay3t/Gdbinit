@@ -107,6 +107,8 @@ set verbose off
 set history filename ~/.gdb_history
 set history save
 
+set disassembly-flavor intel
+
 set output-radix 0x10
 set input-radix 0x10
 
